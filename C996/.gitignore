@@ -1,0 +1,15 @@
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+/**/out/
+
+### Certs ###
+*.crt
+*.key
+*.pem
+*.csr
+*.srl
+/**/tmp/
+/**/certs/
